@@ -1,6 +1,6 @@
 # Simulation of benefits of 5G cloud network in an Industry 4.0 system
 # Author - Bill Liando & Lydia Allen
-# Subject - ECE527 Project Simulation
+# Subject - ECE547 Project Simulation Fall 2023
 # Asumptions:  
 # - each transaction is 1KB
 # - data transfer speeds are at max setting
